@@ -1,9 +1,0 @@
-{
-  "version" : "2.0.1",
-  "build"   : 2,
-  "eol"     : 0,
-  "updated" : "16/05/2019",
-  "changelogs" : "- Stability improvement \n - Fix Insta login bug",
-  "url" :"",
-  "force": false
-}
